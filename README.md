@@ -1,4 +1,4 @@
-# PSR²BS: Pseudo-label Guided Sparse Regression for Hyperspectral Band Selection
+# PSR2BS: Pseudo-label Guided Sparse Regression for Hyperspectral Band Selection
 
 ## Description
 This repository provides a MATLAB demo implementation of the PSR2BS (Pseudo-Label Guided Sparse Regression with Spectral and Spatial Regularization for Hyperspectral Band Selection).
