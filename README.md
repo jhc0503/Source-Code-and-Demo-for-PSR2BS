@@ -4,7 +4,7 @@
 This repository provides a MATLAB demo implementation of the PSR2BS (Pseudo-Label Guided Sparse Regression with Spectral and Spatial Regularization for Hyperspectral Band Selection).
 
 The demo includes:
-1. Core implementation of our PSR²BS band selection method
+1. Core implementation of our PSR2BS band selection method
 2. Script to run the demo on the Botswana dataset
 3. Evaluation of selected bands using both KNN and SVM classifiers
 
