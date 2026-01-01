@@ -13,6 +13,7 @@ The demo uses the **Botswana** hyperspectral dataset, which is publicly availabl
 
 ## Citation
 Please consider cite this paper if you find it helpful.
+
 @ARTICLE{11303989,
   author={Ji, Haochen and Zuo, Zongyu and Han, Qing-Long},
   journal={IEEE Transactions on Instrumentation and Measurement}, 
