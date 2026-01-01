@@ -15,13 +15,21 @@ The demo uses the **Botswana** hyperspectral dataset, which is publicly availabl
 Please consider cite this paper if you find it helpful.
 
 @ARTICLE{11303989,
+
   author={Ji, Haochen and Zuo, Zongyu and Han, Qing-Long},
-  journal={IEEE Transactions on Instrumentation and Measurement}, 
+  
+  journal={IEEE Transactions on Instrumentation and Measurement},
+  
   title={Pseudo-Label Guided Sparse Regression With Spectral and Spatial Regularization for Hyperspectral Band Selection}, 
+  
   year={2025},
+  
   volume={74},
+  
   number={},
+  
   pages={1-15},
+  
   doi={10.1109/TIM.2025.3645919}}
 
 If you have any qusetion, please send e-mail to jhc03@buaa.edu.cn
