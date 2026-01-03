@@ -12,7 +12,7 @@ The demo includes:
 The demo uses the **Botswana** hyperspectral dataset, which is publicly available at: http://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes
 
 ## Citation
-Please consider cite this paper if you find it helpful.
+Please consider citing this paper if you find it helpful.
 
 ```bibtex
 @ARTICLE{11303989,
